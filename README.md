@@ -1,1 +1,4 @@
-# PH_Earthquake_AI_Project_Advanced
+Run with:
+
+pip install -r requirements.txt
+streamlit run app.py
